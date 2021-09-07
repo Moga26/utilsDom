@@ -1,6 +1,3 @@
-/out/
-/requirejs-master/
 /node_modules/
-js/out/fonts/OpenSans-LightItalic-webfont.svg
 package-lock.json
-/node_modules/
+.eslintrc.json
